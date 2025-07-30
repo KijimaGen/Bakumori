@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 1185efebc6ce2b24c9a9dedf7ce36cb3
+  productGUID: dce17237c4510d74d8a9efbedb02a665
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -851,10 +851,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 40169e11-ae68-4c92-b57e-dee8039d70cb
+  cloudProjectId: 4b3bae12-bed5-42c2-b8bd-b89eff889cab
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Bakumori
+  projectName: Bakumori 2025-07-30_14-24-53
   organizationId: eden_778
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
