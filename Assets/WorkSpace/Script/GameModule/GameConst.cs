@@ -12,9 +12,11 @@ public class GameConst{
     
     //ゲームパート
     public enum MainGameState {
-        Invalid,
-        Start,
-        Main,
-        Result,
+        Invalid  = -1,
+        Start = 0,
+        Main = 1,
+        Result = 2,
     }
+    //ゲームパートの数
+    public const int PART_MAX = 3;
 }
